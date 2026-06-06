@@ -79,10 +79,7 @@ OR
 
 Build a weather application that fetches and displays real-time weather information based on user location or user-inputted location.
 
-## Author
-
+Author
 Anuj Landge
 
-Web Development Intern
-
-Prodigy InfoTech
+GitHub: https://github.com/AnujLandge
