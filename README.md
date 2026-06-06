@@ -33,8 +33,7 @@ A responsive weather web application that fetches live weather information using
 PRODIGY_WD_05/
 │
 ├── index.html
-├── README.md
-└── assets/ (optional)
+└── README.md
 
 ```
 
