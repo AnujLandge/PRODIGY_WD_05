@@ -2,6 +2,10 @@
 
 # WeatherSphere Pro
 
+## Live Demo
+
+https://anujlandge.github.io/PRODIGY_WD_05/
+
 A responsive weather web application that fetches live weather information using the Open-Meteo API. Users can search for any city worldwide or use their current location to view real-time weather conditions.
 
 ## Features
